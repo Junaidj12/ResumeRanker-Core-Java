@@ -1,0 +1,24 @@
+Job Title: Java Backend Developer
+
+We are looking for a skilled Java Backend Developer with strong experience in backend development to join our team.
+
+Responsibilities:
+- Design and implement scalable Java-based microservices
+- Integrate APIs and databases
+- Write clean and efficient code following best practices
+
+Requirements:
+- Strong proficiency in Core Java and OOP concepts
+- Experience with Spring Boot and REST APIs
+- Knowledge of MySQL or any relational database
+- Understanding of Maven and project structure
+- Familiarity with Git, version control, and build tools
+- Ability to write clean, maintainable code
+- Good communication skills
+
+Nice to Have:
+- Exposure to cloud platforms like AWS or GCP
+- Familiarity with Hibernate or JPA
+- Understanding of Docker and CI/CD
+
+Keywords: Java, Spring Boot, REST, API, MySQL, Maven, Git, OOP, Microservices, Hibernate, JPA, Docker, AWS, GCP, backend, developer
